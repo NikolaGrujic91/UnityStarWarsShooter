@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 33c506477f4de614da498e148ef34a8f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: camera
+    100002: camera.target
+    100004: //RootNode
+    100006: Dummy
+    100008: Dummy___10
+    100010: Dummy___11
+    100012: Dummy___12
+    100014: Dummy___13
+    100016: Dummy___14
+    100018: Dummy___15
+    100020: Dummy___16
+    100022: Dummy___17
+    100024: Dummy____1
+    100026: Dummy____2
+    100028: Dummy____3
+    100030: Dummy____4
+    100032: Dummy____5
+    100034: Dummy____6
+    100036: Dummy____7
+    100038: Dummy____8
+    100040: Dummy____9
+    100042: Patch1
+    100044: Patch2
+    100046: Surf0
+    100048: 'Surf0 #10'
+    100050: 'Surf0 #11'
+    100052: 'Surf0 #12'
+    100054: 'Surf0 #13'
+    100056: 'Surf0 #14'
+    100058: 'Surf0 #15'
+    100060: 'Surf0 #16'
+    100062: 'Surf0 #17'
+    100064: 'Surf0 #18'
+    100066: 'Surf0 #2'
+    100068: 'Surf0 #3'
+    100070: 'Surf0 #4'
+    100072: 'Surf0 #5'
+    100074: 'Surf0 #6'
+    100076: 'Surf0 #7'
+    100078: 'Surf0 #8'
+    100080: 'Surf0 #9'
+    400000: camera
+    400002: camera.target
+    400004: //RootNode
+    400006: Dummy
+    400008: Dummy___10
+    400010: Dummy___11
+    400012: Dummy___12
+    400014: Dummy___13
+    400016: Dummy___14
+    400018: Dummy___15
+    400020: Dummy___16
+    400022: Dummy___17
+    400024: Dummy____1
+    400026: Dummy____2
+    400028: Dummy____3
+    400030: Dummy____4
+    400032: Dummy____5
+    400034: Dummy____6
+    400036: Dummy____7
+    400038: Dummy____8
+    400040: Dummy____9
+    400042: Patch1
+    400044: Patch2
+    400046: Surf0
+    400048: 'Surf0 #10'
+    400050: 'Surf0 #11'
+    400052: 'Surf0 #12'
+    400054: 'Surf0 #13'
+    400056: 'Surf0 #14'
+    400058: 'Surf0 #15'
+    400060: 'Surf0 #16'
+    400062: 'Surf0 #17'
+    400064: 'Surf0 #18'
+    400066: 'Surf0 #2'
+    400068: 'Surf0 #3'
+    400070: 'Surf0 #4'
+    400072: 'Surf0 #5'
+    400074: 'Surf0 #6'
+    400076: 'Surf0 #7'
+    400078: 'Surf0 #8'
+    400080: 'Surf0 #9'
+    2300000: Patch1
+    2300002: Patch2
+    2300004: Surf0
+    2300006: 'Surf0 #10'
+    2300008: 'Surf0 #11'
+    2300010: 'Surf0 #12'
+    2300012: 'Surf0 #13'
+    2300014: 'Surf0 #14'
+    2300016: 'Surf0 #15'
+    2300018: 'Surf0 #16'
+    2300020: 'Surf0 #17'
+    2300022: 'Surf0 #18'
+    2300024: 'Surf0 #2'
+    2300026: 'Surf0 #3'
+    2300028: 'Surf0 #4'
+    2300030: 'Surf0 #5'
+    2300032: 'Surf0 #6'
+    2300034: 'Surf0 #7'
+    2300036: 'Surf0 #8'
+    2300038: 'Surf0 #9'
+    3300000: Patch1
+    3300002: Patch2
+    3300004: Surf0
+    3300006: 'Surf0 #10'
+    3300008: 'Surf0 #11'
+    3300010: 'Surf0 #12'
+    3300012: 'Surf0 #13'
+    3300014: 'Surf0 #14'
+    3300016: 'Surf0 #15'
+    3300018: 'Surf0 #16'
+    3300020: 'Surf0 #17'
+    3300022: 'Surf0 #18'
+    3300024: 'Surf0 #2'
+    3300026: 'Surf0 #3'
+    3300028: 'Surf0 #4'
+    3300030: 'Surf0 #5'
+    3300032: 'Surf0 #6'
+    3300034: 'Surf0 #7'
+    3300036: 'Surf0 #8'
+    3300038: 'Surf0 #9'
+    4300000: Surf0
+    4300002: 'Surf0 #2'
+    4300004: 'Surf0 #3'
+    4300006: 'Surf0 #4'
+    4300008: 'Surf0 #5'
+    4300010: 'Surf0 #6'
+    4300012: 'Surf0 #7'
+    4300014: 'Surf0 #8'
+    4300016: 'Surf0 #9'
+    4300018: 'Surf0 #10'
+    4300020: 'Surf0 #11'
+    4300022: 'Surf0 #12'
+    4300024: 'Surf0 #13'
+    4300026: 'Surf0 #14'
+    4300028: 'Surf0 #15'
+    4300030: 'Surf0 #16'
+    4300032: Patch1
+    4300034: Patch2
+    4300036: 'Surf0 #17'
+    4300038: 'Surf0 #18'
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

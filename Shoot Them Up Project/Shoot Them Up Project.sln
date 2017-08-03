@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoot Them Up Project", "Shoot Them Up Project.csproj", "{19F01CBE-277D-FC70-168B-ED3E97BFAA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoot Them Up Project.Editor", "Shoot Them Up Project.Editor.csproj", "{21825467-819D-174D-0C38-D2F6CCB8B65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F01CBE-277D-FC70-168B-ED3E97BFAA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F01CBE-277D-FC70-168B-ED3E97BFAA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F01CBE-277D-FC70-168B-ED3E97BFAA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F01CBE-277D-FC70-168B-ED3E97BFAA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21825467-819D-174D-0C38-D2F6CCB8B65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21825467-819D-174D-0C38-D2F6CCB8B65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21825467-819D-174D-0C38-D2F6CCB8B65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21825467-819D-174D-0C38-D2F6CCB8B65A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\SW Racer Remake Project\Assets\Scripts\Hovercraft.js">
+    <Files>
+      <File FileName="..\SW Racer Remake Project\Assets\Scripts\Player.js" Line="5" Column="31" />
+      <File FileName="..\SW Racer Remake Project\Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="42" Column="2" />
+      <File FileName="..\SW Racer Remake Project\Assets\Scripts\Hovercraft.js" Line="114" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

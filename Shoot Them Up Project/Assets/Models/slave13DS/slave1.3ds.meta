@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 95b57bf3ff045c34d86bbbdc5330f2da
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back Secti
+    100002: Boba Fett
+    100004: cockpit gl
+    100006: cockpit in
+    100008: Cockpit se
+    100010: controls/s
+    100012: engine det
+    100014: gunbarrels
+    100016: gunbody
+    100018: 'main body '
+    100020: main engin
+    100022: pipes
+    100024: //RootNode
+    100026: wingholder
+    100028: winghydra0
+    100030: Winghydrau
+    100032: winghydrau
+    100034: Wings
+    400000: Back Secti
+    400002: Boba Fett
+    400004: cockpit gl
+    400006: cockpit in
+    400008: Cockpit se
+    400010: controls/s
+    400012: engine det
+    400014: gunbarrels
+    400016: gunbody
+    400018: 'main body '
+    400020: main engin
+    400022: pipes
+    400024: //RootNode
+    400026: wingholder
+    400028: winghydra0
+    400030: Winghydrau
+    400032: winghydrau
+    400034: Wings
+    2300000: Back Secti
+    2300002: Boba Fett
+    2300004: cockpit gl
+    2300006: cockpit in
+    2300008: Cockpit se
+    2300010: controls/s
+    2300012: engine det
+    2300014: gunbarrels
+    2300016: gunbody
+    2300018: 'main body '
+    2300020: main engin
+    2300022: pipes
+    2300024: wingholder
+    2300026: winghydra0
+    2300028: Winghydrau
+    2300030: winghydrau
+    2300032: Wings
+    3300000: Back Secti
+    3300002: Boba Fett
+    3300004: cockpit gl
+    3300006: cockpit in
+    3300008: Cockpit se
+    3300010: controls/s
+    3300012: engine det
+    3300014: gunbarrels
+    3300016: gunbody
+    3300018: 'main body '
+    3300020: main engin
+    3300022: pipes
+    3300024: wingholder
+    3300026: winghydra0
+    3300028: Winghydrau
+    3300030: winghydrau
+    3300032: Wings
+    4300000: pipes
+    4300002: Back Secti
+    4300004: 'main body '
+    4300006: Cockpit se
+    4300008: cockpit in
+    4300010: controls/s
+    4300012: cockpit gl
+    4300014: Boba Fett
+    4300016: main engin
+    4300018: engine det
+    4300020: Wings
+    4300022: Winghydrau
+    4300024: winghydrau
+    4300026: winghydra0
+    4300028: wingholder
+    4300030: gunbody
+    4300032: gunbarrels
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
